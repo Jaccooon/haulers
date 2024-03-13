@@ -8,7 +8,7 @@ You can click on the license name to open a copy, or if viewing this document as
 
 | Path     | License                                      |
 | -------- | -------------------------------------------- |
-| `game`   | [Mozilla Public License 2.0]                 |
+| `src`    | [Mozilla Public License 2.0]                 |
 | `assets` | [Mixed licenses][assets-licensing]           |
 
 <!-- Read this file for more information about how the assets folder is licensed -->
