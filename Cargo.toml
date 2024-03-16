@@ -2,6 +2,6 @@
 name = "haulers"
 version = "0.1.0"
 edition = "2021"
-authors = ["veritius <veritiusgaming@gmail.com>"]
+authors = ["veritius <veritiusgaming@gmail.com>","Jaccoon <jaxonhartleyis@gmail.com>"]
 
 [dependencies]
